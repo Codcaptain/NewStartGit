@@ -2,7 +2,7 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-    <Label text="Change Item"/>
+    <Label text="New Change Item"/>
     <Label text="wejfwejfwe"/>
     </Page>
 </mvc:View>
